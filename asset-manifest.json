@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/OnlineShop/static/css/main.bae30652.css",
+    "main.js": "/OnlineShop/static/js/main.e87ad3c9.js",
+    "static/media/21604-1-smartphone-transparent-background.png": "/OnlineShop/static/media/21604-1-smartphone-transparent-background.a6c92ee7df21318fa419.png",
+    "static/media/2b7a2297_1671299236.jpg": "/OnlineShop/static/media/50c904d782011abc8cb712abac1d51df2b7a2297_1671299236.c4c65563d74075b00b05.jpg",
+    "static/media/Tesco-GM-2025-gaming-mouse-tsco.shop-3.jpg": "/OnlineShop/static/media/Tesco-GM-2025-gaming-mouse-tsco.shop-3.7201689708e7a0b618dd.jpg",
+    "static/media/57e77f.jpg": "/OnlineShop/static/media/57e77f.e8c604953aed27ca2ad0.jpg",
+    "index.html": "/OnlineShop/index.html",
+    "main.bae30652.css.map": "/OnlineShop/static/css/main.bae30652.css.map",
+    "main.e87ad3c9.js.map": "/OnlineShop/static/js/main.e87ad3c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bae30652.css",
+    "static/js/main.e87ad3c9.js"
+  ]
+}
